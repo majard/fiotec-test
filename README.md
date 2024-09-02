@@ -1,4 +1,5 @@
 ## Getting Started
+To run this project you need to have installed Node.js
 
 First, install the app with npm:
 
@@ -11,7 +12,7 @@ then, run the development server:
 ```bash
 npm run dev
 ```
-Then run the api server in the data folder:
+Then run the api server in the data folder in another terminal:
 ```bash
 npx json-server db.json
 ```
