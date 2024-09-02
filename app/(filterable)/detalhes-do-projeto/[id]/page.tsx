@@ -2,7 +2,6 @@ import { Row, Col } from "react-bootstrap";
 
 import ProjectDetails from "../projectDetails";
 export default async function Detail({ params }: { params: { id: string } }) {
-  console.log("id:", params.id);
 
   let data = await fetch(`http://localhost:3000/projetos/${params.id}`);
   let project = await data.json();
