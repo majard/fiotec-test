@@ -8,7 +8,7 @@ export default function Project({ image, title, description, id, favorited }) {
       </Col>
       <Col className="ms-3">
         <strong className="mt-1 mb-2">{title}</strong>
-        <p className="description mt-auto mb-3">{description}</p>
+        <p className="description-detail mt-auto mb-3">{description}</p>
       </Col>
     </Link>
   );

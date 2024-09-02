@@ -16,7 +16,7 @@
       "category": "Pesquisa",
       "categoryId": 2,
       "image": "https://www.fiotec.fiocruz.br/images/2022/CUIDA-Chagas_Projetos-em-Destaque.jpg?1656936430804",
-      "favorited": false
+      "favorited": true
     },
     {
       "id": "3",
@@ -25,7 +25,7 @@
       "category": "Estímulo à Inovação",
       "categoryId": 3,
       "image": "https://www.fiotec.fiocruz.br/images/2022/Projeto-Destaque_Vacina-Covid19.jpg",
-      "favorited": false
+      "favorited": true
     },
     {
       "id": "4",
