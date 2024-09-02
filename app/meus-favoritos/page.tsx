@@ -1,4 +1,4 @@
-import Project from "../project";
+import Project from "./project";
 import { Row } from "react-bootstrap";
 export default async function FavoriteProjects() {
   let data = await fetch(`http://localhost:3000/projetos?favorited=true`, {

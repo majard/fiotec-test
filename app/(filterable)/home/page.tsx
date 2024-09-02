@@ -1,6 +1,6 @@
 import { Row, Col } from "react-bootstrap";
 
-import ProjectThumbnail from "../../projectThumbnail";
+import ProjectThumbnail from "../projectThumbnail";
 
 export default async function Home({
   searchParams,

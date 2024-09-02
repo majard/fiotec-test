@@ -1,6 +1,6 @@
 import { Row, Col } from "react-bootstrap";
 
-import Project from "../../projectThumbnail";
+import ProjectThumbnail from "../projectThumbnail";
 
 export default async function HighlightedProjects({
   searchParams,
@@ -25,7 +25,7 @@ export default async function HighlightedProjects({
       <Row md={3}>
         {projects.map(({ title, description, image, id, favorited }) => (
           <Col key={`Projeto ${id}`} className="projeto p-5">
-            <Project
+            <ProjectThumbnail
               title={title}
               description={description}
               image={image}
