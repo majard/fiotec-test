@@ -19,10 +19,6 @@
   }
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-}
-
 div .navbar-nav .nav-link.active, .nav-item .nav-link.active {
   color: deepskyblue;
 }
