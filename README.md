@@ -1,17 +1,17 @@
 ## Getting Started
 
-First, run the development server:
+First, install the app with npm:
+
+```bash
+npm i
+```
+
+then, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
-Then run the api server:
+Then run the api server in the data folder:
 ```bash
 npx json-server db.json
 ```
