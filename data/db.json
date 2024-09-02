@@ -16,7 +16,7 @@
       "category": "Pesquisa",
       "categoryId": 2,
       "image": "https://www.fiotec.fiocruz.br/images/2022/CUIDA-Chagas_Projetos-em-Destaque.jpg?1656936430804",
-      "favorited": true
+      "favorited": false
     },
     {
       "id": "3",
@@ -25,7 +25,7 @@
       "category": "Estímulo à Inovação",
       "categoryId": 3,
       "image": "https://www.fiotec.fiocruz.br/images/2022/Projeto-Destaque_Vacina-Covid19.jpg",
-      "favorited": true
+      "favorited": false
     },
     {
       "id": "4",
@@ -52,7 +52,7 @@
       "category": " Desenvolvimento Científico e Tecnológico",
       "categoryId": 6,
       "image": "https://www.fiotec.fiocruz.br/images/2022/Metodo-Wolbachia_Projetos-em-Destaque.jpg",
-      "favorited": true
+      "favorited": false
     }
   ]
 }

@@ -7,7 +7,7 @@ export default function ProjectDetails({ image, title, description, id }) {
       
       <strong>{title}</strong>
       <img src={image} alt="Imagem do projeto" width={182} height={55} />
-      <p className="mt-3">{description}</p>
+      <p className="mt-3 description-detail">{description}</p>
       
     </Col>
   );

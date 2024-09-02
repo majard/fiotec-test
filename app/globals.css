@@ -70,6 +70,9 @@ div .navbar-nav .nav-link.active, .nav-item .nav-link.active {
 .detalhe-projeto strong {
   font-size: 1.2rem;
 }
+.description-detail {
+  font-size: 0.8rem;
+}
 .row {
   max-width: 100%;
 }
